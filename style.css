@@ -1,6 +1,20 @@
 body{
-    background-color: rgb(0, 0, 0);
-    color: rgb(219, 0, 0);
+    background-color: rgb(249, 248, 247);
+    color: rgb(251, 136, 192);
     font-family: "EB Garamond", serif;
+    margin:0px;
     font-weight: 900;
+    
+}
+
+header {
+    font-size: 40px;
+    border: outset 5px rgb(254, 132, 248);
+}
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
