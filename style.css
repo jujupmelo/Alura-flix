@@ -1,15 +1,17 @@
 body{
-    background-color: rgb(249, 248, 247);
-    color: rgb(251, 136, 192);
+    background-color: #0a0a0a;
+    color: rgb(198, 31, 31);
     font-family: "EB Garamond", serif;
     margin:0px;
-    font-weight: 900;
+    
     
 }
 
 header {
-    font-size: 40px;
-    border: outset 5px rgb(254, 132, 248);
+    font-size: 30px;
+    border-bottom:   outset 5px rgb(206, 27, 27);
+   /* margin: 10px; */
+    padding: 10px;
 }
 h1{
     font-size: 30px;
